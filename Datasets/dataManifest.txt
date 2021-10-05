@@ -1,0 +1,9 @@
+https://archive.ics.uci.edu/ml/datasets/Iris
+https://www.kaggle.com/c/titanic/data
+
+ Restaurant Data:
+Dataset from "Artificial Intelligence: A Modern Approach" by Russell and Norvig. 
+
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
+https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
